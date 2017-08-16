@@ -18,9 +18,9 @@ Using preexisting annotations and the text from associated articles, we are trai
 ## Funding
 ATHENA is funded via [NSF Grant 1631325](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1631325).
 
-## Related Tools/Projects
-* [BrainMap](http://www.brainmap.org): A database of manually-annotated neuroimaging experiments
-* [brainspell](https://brainspell.herokuapp.com): An application for crowdsourced annotation of neuroimaging experiments
-* [Cognitive Atlas](http://www.cognitiveatlas.org): A crowdsourced ontology for cognitive neuroscience
-* [Neurosynth](http://neurosynth.org): A database of automatically-annotated neuroimaging papers
-* [Neurovault](http://www.neurovault.org): A database of statistical images from neuroimaging experiments, often with metadata
+## Related Projects
+* [BrainMap](http://www.brainmap.org): A database of manually-annotated neuroimaging experiments.
+* [brainspell](https://brainspell.herokuapp.com): An application for crowdsourced annotation of neuroimaging experiments. All annotations are publicly available, so as brainspell becomes widely used we will be able to train ATHENA classifiers on its database and to feed back predictions for unlabeled studies.
+* [Cognitive Atlas](http://www.cognitiveatlas.org): A crowdsourced ontology for cognitive neuroscience. The Cognitive Atlas provides a dictionary of terms and their synonyms that can be used as features for training ATHENA classifiers.
+* [Neurosynth](http://neurosynth.org): A large (>11000 studies) database of automatically-annotated neuroimaging papers. The articles in Neurosynth are easily accessible, and are very likely to be fMRI studies, making it easier for us to identify papers to manually annotate for ATHENA's training corpus.
+* [Neurovault](http://www.neurovault.org): A database of statistical images from neuroimaging experiments, often with manual annotations.
