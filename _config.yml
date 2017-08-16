@@ -81,16 +81,13 @@ email: "tsalo006@fiu.edu"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
   People: /people/
-  Categories: /categories/
-  Search: /search/
 
 navigation_footer:
   ATHENA NSF: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1631325"
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  GitHub: https://github.com/NBCLab
+  GitHub: https://github.com/AthenaSTM
   Twitter: https://twitter.com/athenaannounce
 
 sharing_links:
