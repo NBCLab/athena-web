@@ -13,12 +13,12 @@ feature_image: "https://unsplash.it/1300/400?image=1061"
 
 # Staff
 
-{% include figure.html image="http://www.usg.edu/assets/global/images/inst_thumbnails_large/gsu_thumb.jpg" alt="Georgia State University" %}
+## Georgia State University
 * [Dr. Matthew Turner](http://sites.gsu.edu/igil/people/)
 
 * [Keven Haynes](http://sites.gsu.edu/igil/people/)
 
-{% include figure.html image="http://government.fiu.edu/_assets/images/main-banner/fiu-lake.jpg" alt="Florida International University" %}
+## Florida International University
 * [Dr. Michael Riedel](http://neurolab.fiu.edu/team/)
 
 * [Taylor Salo](http://neurolab.fiu.edu/team/)
