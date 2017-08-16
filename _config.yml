@@ -83,7 +83,7 @@ navigation_header:
   Home: /
   People: /people/
   Publications: /publications/
-  Code: https://tsalo.github.io/athena-web
+  Code: https://github.com/tsalo/athena-web
 
 navigation_footer:
   ATHENA NSF: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1631325"
