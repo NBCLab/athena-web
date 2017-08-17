@@ -3,26 +3,30 @@ title: People
 layout: page
 excerpt: "People"
 aside: true
-feature_image: "https://unsplash.it/1300/400?image=1061"
+#feature_image: "https://unsplash.it/1300/400?image=1061"
 ---
 
 ## Principal Investigators
-* [Dr. Angela Laird](http://neurolab.fiu.edu/team/)
+* [Dr. Angela R. Laird](https://github.com/angielaird)
 
-* [Dr. Jessica A. Turner](http://sites.gsu.edu/igil/people/)
+* [Dr. Jessica A. Turner](https://github.com/drjturner)
 
-# Staff
+## The Teams
 
 ### Georgia State University
-* [Dr. Matthew Turner](http://sites.gsu.edu/igil/people/)
+[The Imaging Genetics and Informatics Laboratory](http://sites.gsu.edu/igil/)
 
-* [Keven Haynes](http://sites.gsu.edu/igil/people/)
+* [Dr. Matthew D. Turner](https://github.com/mdtdev)
+
+* [Keven Haynes](https://github.com/haynesie)
 
 ### Florida International University
-* [Dr. Michael Riedel](http://neurolab.fiu.edu/team/)
+[The Neuroinformatics and Brain Connectivity Laboratory](http://neurolab.fiu.edu/)
 
-* [Taylor Salo](http://neurolab.fiu.edu/team/)
+* [Dr. Michael C. Riedel](https://github.com/mriedel56)
 
-* [Ariel Gonzalez](http://neurolab.fiu.edu/team/)
+* [Taylor Salo](https://github.com/tsalo)
 
-* [Jennifer Foreman](http://neurolab.fiu.edu/team/)
+* [Ariel Gonzalez](https://github.com/Gariel022591)
+
+* [Jennifer Foreman](https://github.com/jennforeman)
