@@ -2,7 +2,7 @@
 title: About ATHENA
 feature_text: |
   ## ATHENA
-  Automated Text Harvesting and Exploration of Neuroimaging Annotations (ATHENA) is a tool for classifying cognitive neuroscience studies according to the Cognitive Paradigm Ontology (CogPO).
+  Automated Text Harvesting and Exploration of Neuroimaging Annotations
 feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: ""
 ---
