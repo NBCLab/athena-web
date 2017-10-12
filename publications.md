@@ -14,4 +14,4 @@ excerpt: ""
 
 # Presentations
 
-* Salo, T., Riedel, M. C., Bartley, J. E., Bottenhorn, K. L., Yarkoni, T., Turner, M. D., Turner, J. A., Sutherland, M. T., & Laird, A. R. (2017). A quantitative evaluation of Neurosynth's annotation methods. Presented at the 23rd annual meeting of the Organization for Human Brain Mapping; Vancouver, British Columbia.
+* Salo, T., Riedel, M. C., Bartley, J. E., Bottenhorn, K. L., Yarkoni, T., Turner, M. D., Turner, J. A., Sutherland, M. T., & Laird, A. R. (2017). A quantitative evaluation of Neurosynth's annotation methods. Presented at the 23rd annual meeting of the Organization for Human Brain Mapping; Vancouver, British Columbia. More information [here](https://nbclab.github.io/presentations/salo-neurosynth-presentation).
