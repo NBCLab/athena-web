@@ -7,7 +7,7 @@ aside: true
 ---
 
 ## Principal Investigators
-* [Dr. Angela R. Laird](https://github.com/angielaird)
+* [Dr. Angela R. Laird](https://nbclab.github.io/team/angela-laird)
 
 * [Dr. Jessica A. Turner](https://github.com/drjturner)
 
@@ -21,12 +21,12 @@ aside: true
 * [Keven Haynes](https://github.com/haynesie)
 
 ### Florida International University
-[The Neuroinformatics and Brain Connectivity Laboratory](http://neurolab.fiu.edu/)
+[The Neuroinformatics and Brain Connectivity Laboratory](https://nbclab.github.io)
 
-* [Dr. Michael C. Riedel](https://github.com/mriedel56)
+* [Dr. Michael C. Riedel](https://nbclab.github.io/team/michael-riedel)
 
-* [Taylor Salo](https://github.com/tsalo)
+* [Taylor Salo](https://tsalo.github.io)
 
-* [Ariel Gonzalez](https://github.com/Gariel022591)
+* [Ariel Gonzalez](https://nbclab.github.io/team/ariel-gonzalez)
 
-* [Jennifer Foreman](https://github.com/jennforeman)
+* [Jennifer Foreman](https://nbclab.github.io/team/jennifer-foreman)
