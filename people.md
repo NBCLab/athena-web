@@ -1,9 +1,9 @@
 ---
 title: People
-layout: page
-excerpt: "People"
-aside: true
-#feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_text: |
+  <h1 style="color:#ffffff; -webkit-text-stroke: 1px black;">The Team</h1>
+feature_image: /assets/images/dream_hnevfyngec9.jpg
+excerpt: ""
 ---
 
 ## Principal Investigators

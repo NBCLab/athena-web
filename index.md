@@ -1,9 +1,9 @@
 ---
 title: About ATHENA
 feature_text: |
-  ## ATHENA
-  Automated Text Harvesting and Exploration of Neuroimaging Annotations
-feature_image: "https://unsplash.it/1300/400?image=971"
+  <h1 style="color:#ffffff; -webkit-text-stroke: 1px black;"> ATHENA </h1>
+  <h5 style="color:#ffffff; -webkit-text-stroke: 1px black;">Automated Text Harvesting and Exploration of Neuroimaging Annotations</h5>
+feature_image: /assets/images/dream_0snerb48r9t.jpg
 excerpt: ""
 ---
 

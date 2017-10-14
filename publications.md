@@ -1,8 +1,8 @@
 ---
 title: Peer-reviewed articles
 feature_text: |
-  ## Publications
-feature_image: "https://unsplash.it/1300/400?image=971"
+  <h1 style="color:#ffffff; -webkit-text-stroke: 1px black;">Publications</h1>
+feature_image: /assets/images/dream_vegamuwm876.jpg
 excerpt: ""
 ---
 
