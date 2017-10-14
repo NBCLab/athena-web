@@ -2,7 +2,7 @@
 title: Peer-reviewed articles
 feature_text: |
   <h1 style="color:#ffffff; -webkit-text-stroke: 1px black;">Publications</h1>
-feature_image: /assets/dream_vegamuwm876.jpg
+feature_image: {{ "/assets/dream_vegamuwm876.jpg" | relative_url }}
 excerpt: ""
 ---
 
